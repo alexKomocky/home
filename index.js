@@ -8,7 +8,7 @@ if (value > 0) {
 }
 
 
-let result 
+let result;
 
 if ( a + b < 4) ? 'malo' : ' mnogo';
 
